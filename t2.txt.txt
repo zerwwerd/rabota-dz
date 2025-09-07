@@ -5,5 +5,8 @@ hello2
 
 hello
  vetka3
+ HEAD
 hbhbhb
 mnkjb
+/
+ origin/main
